@@ -1,6 +1,14 @@
 内容
 =====
 题目主要涉及一些常用算法和数据结构
+   * tree
+   * graph
+   * dynamic programming
+   * 并查集
+   * 分治
+   * 凸包
+   * bit operation
+   * 拓扑排序
 
 
 宗旨
